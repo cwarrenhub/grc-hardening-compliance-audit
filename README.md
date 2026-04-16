@@ -59,6 +59,14 @@ The engagement simulates a real-world security audit by identifying control gaps
 ---
 
 ## 📊 Risk & Compliance Artifacts
+---
+
+## 📂 Project Files
+
+* 📊 [Download Compliance Workbook](./GRC_Hardening_Compliance_Audit.xlsx)
+* 📄 [Benchmark Selection & Applicability Statement](./Benchmark_Selection_Applicability_Statement.pdf)
+
+> These documents contain full control validation, risk scoring, remediation tracking, and supporting audit evidence.
 
 * Compliance Assessment Workbook
 
